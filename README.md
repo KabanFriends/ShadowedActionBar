@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Shadowed Action Bar
+A simple [Fabric](https://fabricmc.net/) mod that adds text shadow to the action bar.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Preview
+![Preview Image](https://media.discordapp.net/attachments/917345899389255691/956139388289552384/unknown.png)
