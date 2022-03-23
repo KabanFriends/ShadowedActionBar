@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "shadowedactionbar",
+  "version": "${version}",
+
+  "name": "Shadowed Action Bar",
+  "description": "Adds text shadow to action bar.",
+  "authors": [
+    "KabanFriends"
+  ],
+  "contact": {
+    "sources": "https://github.com/KabanFriends/ShadowedActionBar"
+  },
+
+  "license": "LGPL-3.0",
+  "icon": "assets/shadowedactionbar/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "shadowedactionbar.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "*",
+    "java": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
